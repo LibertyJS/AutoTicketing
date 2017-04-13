@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/LibertyJS/AutoTicketing/issues"
   },
-  "homepage": "https://github.com/LibertyJS/AutoTicketing#readme"
+  "homepage": "https://github.com/LibertyJS/AutoTicketing#readme",
+  "dependencies": {
+    "twit-search": "^1.0.5"
+  }
 }
