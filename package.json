@@ -1,0 +1,28 @@
+{
+  "name": "auto-conf-ticketing",
+  "version": "1.0.0",
+  "description": "Streamline the process of checking in attendees at a conference via twitter ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibertyJS/AutoTicketing.git"
+  },
+  "keywords": [
+    "conference",
+    "ticketing",
+    "checkin"
+  ],
+  "author": "CF Grugan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LibertyJS/AutoTicketing/issues"
+  },
+  "homepage": "https://github.com/LibertyJS/AutoTicketing#readme"
+}
